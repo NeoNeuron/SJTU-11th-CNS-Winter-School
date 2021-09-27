@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+GC_vs_TDMI
+Theta_Code
+
+*.zip
+*.pyc
