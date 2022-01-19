@@ -20,8 +20,8 @@ The winter school is sponsored by the Chinese Neuroscience Society (Committee on
 |Language|*Chinese*||*English*|*Chinese*|*English*|*Chinese*|
 |**Afternoon</br>(14:00-16:00)**||Chengyu Li|Tutorial 1:</br>Dimension Reduction|David Hansel (15:00-17:00)|Tutorial 2:</br>Neuronal Dynamics||
 |Language||*Chinese*|*Chinese*|*English*|*Chinese*||
-|**Evening</br>(20:00-22:00)**|Julijana Gjorgjieva|Jianfeng Feng|||||
-|Language|*English*|*Chinese*|||||
+|**Evening</br>(20:00-22:00)**||Jianfeng Feng|Julijana Gjorgjieva||||
+|Language||*Chinese*|*English*||||
 ## Tutorial Schedule
 
 |Topics|Date| Time |
