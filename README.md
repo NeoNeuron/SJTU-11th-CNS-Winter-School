@@ -53,7 +53,7 @@ Online——VooV
 
 ### TBA
 *by Carsen Stringer, HHMI Janelia Research Campus*
-### [Tutorial 1: Dimension Reduction](https://github.com/NeoNeuron/SJTU-11th-CNS-Winter-School)
+### [Tutorial 1: Dimension Reduction](./tutorial1/)
 
 *by Kai Chen, Shanghai Jiao Tong University*
 
@@ -66,7 +66,7 @@ Online——VooV
 ### Distributed dynamics and cognition in large-scale brain circuits
 *by Xiao-Jing Wang, New York University*
 
-### [Tutorial 2: Neuronal Dynamics](https://github.com/NeoNeuron/SJTU-11th-CNS-Winter-School)
+### [Tutorial 2: Neuronal Dynamics](./tutorial2/)
 
 *by Ziling Wang, Shanghai Jiao Tong University*
 

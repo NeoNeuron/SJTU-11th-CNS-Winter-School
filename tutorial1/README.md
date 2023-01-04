@@ -8,10 +8,12 @@
 
 ---
 
-## Dependencies
-- numpy
-- matplotlib
-- scipy
-- sklearn
-- jupyter
-- umap-learn (pip)
+## Install dependencies
+
+
+```bash
+# install basic packages for scientific computing
+conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
+# install few more packages using pip
+pip install umap-learn
+```
